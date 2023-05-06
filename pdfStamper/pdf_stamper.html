@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+
+<head>
+    <script src="https://cdn.jsdelivr.net/pyodide/v0.22.1/full/pyodide.js"></script>
+</head>
+
+<body>
+    <div>
+        <div>
+            <h1 class="title">PDF Stamper</h1>
+        </div>
+    </div>
+    <form id="upload-form" enctype="multipart/form-data">
+        <h3 style="color: red;" id="error-message" hidden></h3>
+        <label for="file1">Input PDF: </label>
+        <input type="file" id="file-field1" name="file1" required>
+        <label for="file2">Stamp PDF: </label>
+        <input type="file" id="file-field2" name="file2" required>
+        <button type="submit">Stamp</button>
+    </form>
+    <ul id="not-converted"></ul>
+    <div id="download-div"></div>
+    <script src="./pdf_stamper.js"></script>
+</body>
+
+</html>
