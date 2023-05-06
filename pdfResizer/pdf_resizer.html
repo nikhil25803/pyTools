@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+
+<head>
+    <script src="https://cdn.jsdelivr.net/pyodide/v0.22.1/full/pyodide.js"></script>
+</head>
+
+<body>
+    <div>
+        <div>
+            <h1 class="title">PDF Resizer (Resize the pages dimension of the PDF)</h1>
+        </div>
+    </div>
+    <form id="upload-form" enctype="multipart/form-data">
+        <h3 style="color: red;" id="error-message" hidden></h3>
+        <label for="file">Choose Files: </label>
+        <input type="file" id="file-field" name="file" required>
+        <label for="width">Width: </label>
+        <input type="number" id="width" name="width" required>
+        <label for="height">Height: </label>
+        <input type="number" id="height" name="height" required>
+        <button type="submit">Resize</button>
+    </form>
+    <ul id="not-converted"></ul>
+    <div id="download-div"></div>
+    <script src="./pdf_resizer.js"></script>
+</body>
+
+</html>
