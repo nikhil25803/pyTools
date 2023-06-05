@@ -1,0 +1,406 @@
+Problem Sheet  
+ 
+Operations Research (MATH 2203 ) 
+Module -IV 
+ 
+1. Show that (0,0) is a saddle point to the function  
+𝑓(𝑥1,𝑥2)=18𝑥1𝑥2+5𝑥22. 
+2. Find the point (𝑥1,𝑥2,𝑥3) at which is function 𝑓(𝑥1,𝑥2,𝑥3)=4𝑥12+3𝑥22+𝑥32−
+6𝑥1𝑥2+𝑥1𝑥3−𝑥1
+2−2𝑥2+15 has optimal values.                         [Ans.: (𝟓
+𝟑,𝟐,−𝟓
+𝟔)] 
+3. Determine the relative maximum and minimum (if any) of the following function:  
+𝑓(𝑥1,𝑥2,𝑥3)=2𝑥12−24𝑥1+2𝑥22−8𝑥2+2𝑥32−12𝑥3+200 
+                   [Ans.: (𝟔,𝟐,𝟑)] 
+4. Determine the relative maximum and minimum (if any) of the following function:  
+𝑓(𝑥1,𝑥2,𝑥3)=−7𝑥12−10𝑥22−𝑥32+4𝑥1𝑥2−2𝑥1𝑥3+4𝑥2𝑥3 
+ 
+5.  For each of the following functions determine whether it is convex, concave or 
+neither  
+(i) 𝑓(𝑥1,𝑥2)=3𝑥1+2𝑥12+4𝑥2+𝑥22−2𝑥1𝑥2 
+(ii) 𝑓(𝑥1,𝑥2)=𝑥12+3𝑥1𝑥2+2𝑥22 
+(iii) 𝑓(𝑥1,𝑥2)=20𝑥1+10𝑥2 
+(iv) 𝑓(𝑥1,𝑥2)=𝑥1𝑥2 
+ 
+6. Solve the following non -liner programming prbolem  
+Maximize 𝑧=5𝑥1+𝑥2−(𝑥1−𝑥2)2 
+      Subject to the constraint  
+   𝑥1+𝑥2=4 
+      𝑥1,𝑥2≥0                [Ans.: (𝟓
+𝟐,𝟑
+𝟐),𝒛=𝟏𝟑] 
+ 
+7. Solve the following non -linear programming problem, using Lagrange multipliers 
+method:  
+  Minimize 𝑧=𝑥12+𝑥22+𝑥32 
+      Subject to the constraint  
+   4𝑥1+𝑥22+2𝑥3=14 
+      𝑥1,𝑥2≥0             [Ans.: (𝟐,𝟐,𝟏),𝒛=𝟗] 
+ 
+8. Use the method of Lagrange multipliers to solve the following NLPP. Does the 
+solution maximize or minimize the objective function?  
+ 
+Optimize 𝑧=2𝑥12+𝑥22+3𝑥32+10𝑥1+8𝑥2+6𝑥3−100 
+      Subject to the constraint  
+   𝑥1+𝑥2+𝑥3=20 
+      𝑥1,𝑥2,𝑥3≥0 
+          [Ans.: (𝟓,𝟏𝟏,𝟒),𝒛=𝟐𝟖𝟏] 9. Find the point on the line of intersection of the planes 3𝑥−2𝑦+4𝑧=9 and 𝑥+
+2𝑦=3 which is closest  to the point (3,−1,2). [Ans.: (𝟕
+𝟑,𝟏
+𝟑,𝟐
+𝟑),𝒛=𝟒] 
+ 
+10.  Solve the following NLPP:  
+      Maximize 𝑧=4𝑥1−𝑥13+2𝑥2 
+      Subject to  
+   𝑥1+𝑥2≤1 
+      𝑥1,𝑥2≥0     [Ans.: (𝟎.𝟖𝟏𝟔𝟓 ,𝟎.𝟏𝟖𝟑𝟓 ),𝒛=𝟑.𝟎𝟖𝟖𝟕 ] 
+ 
+11. Solve the following NLPP using the Kuhn -Tucker conditions:  
+      Maximize 𝑧=2𝑥12−7𝑥22+12𝑥1𝑥2 
+      Subject to  
+   2𝑥1+5𝑥2≤98 
+      𝑥1,𝑥2≥0          [Ans.: (𝟒𝟒,𝟐),𝒛=𝟒𝟗𝟎𝟎 ] 
+           
+12.  Solve the following NLPP using the Kuhn -Tucker conditions:  
+   Minimize 𝑧=2𝑥1+3𝑥2−𝑥12−2𝑥22 
+      Subject to  
+   𝑥1+3𝑥2≤6 
+                               5𝑥1+2𝑥2≤10 
+      𝑥1,𝑥2≥0              [Ans.: (𝟐
+𝟑,𝟏𝟒
+𝟗),𝒛=𝟐𝟐
+𝟗] 
+13.   Solve the following NLPP using the Kuhn -Tucker conditions:  
+   Minimize 𝑧=𝑥12+𝑥22 
+      Subject to  
+   𝑥1+𝑥2≥8 
+                               𝑥1+2𝑥2≥10 
+   2𝑥1+𝑥2≥10 
+      𝑥1,𝑥2≥0              [Ans.: (𝟒,𝟒),𝒛=𝟐𝟐
+𝟗] Problem Sheet  
+ 
+Operations Research (MATH 2203 ) 
+Module -IV 
+ 
+1. Show that (0,0) is a saddle point to the function  
+𝑓(𝑥1,𝑥2)=18𝑥1𝑥2+5𝑥22. 
+2. Find the point (𝑥1,𝑥2,𝑥3) at which is function 𝑓(𝑥1,𝑥2,𝑥3)=4𝑥12+3𝑥22+𝑥32−
+6𝑥1𝑥2+𝑥1𝑥3−𝑥1
+2−2𝑥2+15 has optimal values.                         [Ans.: (𝟓
+𝟑,𝟐,−𝟓
+𝟔)] 
+3. Determine the relative maximum and minimum (if any) of the following function:  
+𝑓(𝑥1,𝑥2,𝑥3)=2𝑥12−24𝑥1+2𝑥22−8𝑥2+2𝑥32−12𝑥3+200 
+                   [Ans.: (𝟔,𝟐,𝟑)] 
+4. Determine the relative maximum and minimum (if any) of the following function:  
+𝑓(𝑥1,𝑥2,𝑥3)=−7𝑥12−10𝑥22−𝑥32+4𝑥1𝑥2−2𝑥1𝑥3+4𝑥2𝑥3 
+ 
+5.  For each of the following functions determine whether it is convex, concave or 
+neither  
+(i) 𝑓(𝑥1,𝑥2)=3𝑥1+2𝑥12+4𝑥2+𝑥22−2𝑥1𝑥2 
+(ii) 𝑓(𝑥1,𝑥2)=𝑥12+3𝑥1𝑥2+2𝑥22 
+(iii) 𝑓(𝑥1,𝑥2)=20𝑥1+10𝑥2 
+(iv) 𝑓(𝑥1,𝑥2)=𝑥1𝑥2 
+ 
+6. Solve the following non -liner programming prbolem  
+Maximize 𝑧=5𝑥1+𝑥2−(𝑥1−𝑥2)2 
+      Subject to the constraint  
+   𝑥1+𝑥2=4 
+      𝑥1,𝑥2≥0                [Ans.: (𝟓
+𝟐,𝟑
+𝟐),𝒛=𝟏𝟑] 
+ 
+7. Solve the following non -linear programming problem, using Lagrange multipliers 
+method:  
+  Minimize 𝑧=𝑥12+𝑥22+𝑥32 
+      Subject to the constraint  
+   4𝑥1+𝑥22+2𝑥3=14 
+      𝑥1,𝑥2≥0             [Ans.: (𝟐,𝟐,𝟏),𝒛=𝟗] 
+ 
+8. Use the method of Lagrange multipliers to solve the following NLPP. Does the 
+solution maximize or minimize the objective function?  
+ 
+Optimize 𝑧=2𝑥12+𝑥22+3𝑥32+10𝑥1+8𝑥2+6𝑥3−100 
+      Subject to the constraint  
+   𝑥1+𝑥2+𝑥3=20 
+      𝑥1,𝑥2,𝑥3≥0 
+          [Ans.: (𝟓,𝟏𝟏,𝟒),𝒛=𝟐𝟖𝟏] 9. Find the point on the line of intersection of the planes 3𝑥−2𝑦+4𝑧=9 and 𝑥+
+2𝑦=3 which is closest  to the point (3,−1,2). [Ans.: (𝟕
+𝟑,𝟏
+𝟑,𝟐
+𝟑),𝒛=𝟒] 
+ 
+10.  Solve the following NLPP:  
+      Maximize 𝑧=4𝑥1−𝑥13+2𝑥2 
+      Subject to  
+   𝑥1+𝑥2≤1 
+      𝑥1,𝑥2≥0     [Ans.: (𝟎.𝟖𝟏𝟔𝟓 ,𝟎.𝟏𝟖𝟑𝟓 ),𝒛=𝟑.𝟎𝟖𝟖𝟕 ] 
+ 
+11. Solve the following NLPP using the Kuhn -Tucker conditions:  
+      Maximize 𝑧=2𝑥12−7𝑥22+12𝑥1𝑥2 
+      Subject to  
+   2𝑥1+5𝑥2≤98 
+      𝑥1,𝑥2≥0          [Ans.: (𝟒𝟒,𝟐),𝒛=𝟒𝟗𝟎𝟎 ] 
+           
+12.  Solve the following NLPP using the Kuhn -Tucker conditions:  
+   Minimize 𝑧=2𝑥1+3𝑥2−𝑥12−2𝑥22 
+      Subject to  
+   𝑥1+3𝑥2≤6 
+                               5𝑥1+2𝑥2≤10 
+      𝑥1,𝑥2≥0              [Ans.: (𝟐
+𝟑,𝟏𝟒
+𝟗),𝒛=𝟐𝟐
+𝟗] 
+13.   Solve the following NLPP using the Kuhn -Tucker conditions:  
+   Minimize 𝑧=𝑥12+𝑥22 
+      Subject to  
+   𝑥1+𝑥2≥8 
+                               𝑥1+2𝑥2≥10 
+   2𝑥1+𝑥2≥10 
+      𝑥1,𝑥2≥0              [Ans.: (𝟒,𝟒),𝒛=𝟐𝟐
+𝟗] Problem Sheet  
+ 
+Operations Research (MATH 2203 ) 
+Module -IV 
+ 
+1. Show that (0,0) is a saddle point to the function  
+𝑓(𝑥1,𝑥2)=18𝑥1𝑥2+5𝑥22. 
+2. Find the point (𝑥1,𝑥2,𝑥3) at which is function 𝑓(𝑥1,𝑥2,𝑥3)=4𝑥12+3𝑥22+𝑥32−
+6𝑥1𝑥2+𝑥1𝑥3−𝑥1
+2−2𝑥2+15 has optimal values.                         [Ans.: (𝟓
+𝟑,𝟐,−𝟓
+𝟔)] 
+3. Determine the relative maximum and minimum (if any) of the following function:  
+𝑓(𝑥1,𝑥2,𝑥3)=2𝑥12−24𝑥1+2𝑥22−8𝑥2+2𝑥32−12𝑥3+200 
+                   [Ans.: (𝟔,𝟐,𝟑)] 
+4. Determine the relative maximum and minimum (if any) of the following function:  
+𝑓(𝑥1,𝑥2,𝑥3)=−7𝑥12−10𝑥22−𝑥32+4𝑥1𝑥2−2𝑥1𝑥3+4𝑥2𝑥3 
+ 
+5.  For each of the following functions determine whether it is convex, concave or 
+neither  
+(i) 𝑓(𝑥1,𝑥2)=3𝑥1+2𝑥12+4𝑥2+𝑥22−2𝑥1𝑥2 
+(ii) 𝑓(𝑥1,𝑥2)=𝑥12+3𝑥1𝑥2+2𝑥22 
+(iii) 𝑓(𝑥1,𝑥2)=20𝑥1+10𝑥2 
+(iv) 𝑓(𝑥1,𝑥2)=𝑥1𝑥2 
+ 
+6. Solve the following non -liner programming prbolem  
+Maximize 𝑧=5𝑥1+𝑥2−(𝑥1−𝑥2)2 
+      Subject to the constraint  
+   𝑥1+𝑥2=4 
+      𝑥1,𝑥2≥0                [Ans.: (𝟓
+𝟐,𝟑
+𝟐),𝒛=𝟏𝟑] 
+ 
+7. Solve the following non -linear programming problem, using Lagrange multipliers 
+method:  
+  Minimize 𝑧=𝑥12+𝑥22+𝑥32 
+      Subject to the constraint  
+   4𝑥1+𝑥22+2𝑥3=14 
+      𝑥1,𝑥2≥0             [Ans.: (𝟐,𝟐,𝟏),𝒛=𝟗] 
+ 
+8. Use the method of Lagrange multipliers to solve the following NLPP. Does the 
+solution maximize or minimize the objective function?  
+ 
+Optimize 𝑧=2𝑥12+𝑥22+3𝑥32+10𝑥1+8𝑥2+6𝑥3−100 
+      Subject to the constraint  
+   𝑥1+𝑥2+𝑥3=20 
+      𝑥1,𝑥2,𝑥3≥0 
+          [Ans.: (𝟓,𝟏𝟏,𝟒),𝒛=𝟐𝟖𝟏] 9. Find the point on the line of intersection of the planes 3𝑥−2𝑦+4𝑧=9 and 𝑥+
+2𝑦=3 which is closest  to the point (3,−1,2). [Ans.: (𝟕
+𝟑,𝟏
+𝟑,𝟐
+𝟑),𝒛=𝟒] 
+ 
+10.  Solve the following NLPP:  
+      Maximize 𝑧=4𝑥1−𝑥13+2𝑥2 
+      Subject to  
+   𝑥1+𝑥2≤1 
+      𝑥1,𝑥2≥0     [Ans.: (𝟎.𝟖𝟏𝟔𝟓 ,𝟎.𝟏𝟖𝟑𝟓 ),𝒛=𝟑.𝟎𝟖𝟖𝟕 ] 
+ 
+11. Solve the following NLPP using the Kuhn -Tucker conditions:  
+      Maximize 𝑧=2𝑥12−7𝑥22+12𝑥1𝑥2 
+      Subject to  
+   2𝑥1+5𝑥2≤98 
+      𝑥1,𝑥2≥0          [Ans.: (𝟒𝟒,𝟐),𝒛=𝟒𝟗𝟎𝟎 ] 
+           
+12.  Solve the following NLPP using the Kuhn -Tucker conditions:  
+   Minimize 𝑧=2𝑥1+3𝑥2−𝑥12−2𝑥22 
+      Subject to  
+   𝑥1+3𝑥2≤6 
+                               5𝑥1+2𝑥2≤10 
+      𝑥1,𝑥2≥0              [Ans.: (𝟐
+𝟑,𝟏𝟒
+𝟗),𝒛=𝟐𝟐
+𝟗] 
+13.   Solve the following NLPP using the Kuhn -Tucker conditions:  
+   Minimize 𝑧=𝑥12+𝑥22 
+      Subject to  
+   𝑥1+𝑥2≥8 
+                               𝑥1+2𝑥2≥10 
+   2𝑥1+𝑥2≥10 
+      𝑥1,𝑥2≥0              [Ans.: (𝟒,𝟒),𝒛=𝟐𝟐
+𝟗] Problem Sheet  
+ 
+Operations Research (MATH 2203 ) 
+Module -IV 
+ 
+1. Show that (0,0) is a saddle point to the function  
+𝑓(𝑥1,𝑥2)=18𝑥1𝑥2+5𝑥22. 
+2. Find the point (𝑥1,𝑥2,𝑥3) at which is function 𝑓(𝑥1,𝑥2,𝑥3)=4𝑥12+3𝑥22+𝑥32−
+6𝑥1𝑥2+𝑥1𝑥3−𝑥1
+2−2𝑥2+15 has optimal values.                         [Ans.: (𝟓
+𝟑,𝟐,−𝟓
+𝟔)] 
+3. Determine the relative maximum and minimum (if any) of the following function:  
+𝑓(𝑥1,𝑥2,𝑥3)=2𝑥12−24𝑥1+2𝑥22−8𝑥2+2𝑥32−12𝑥3+200 
+                   [Ans.: (𝟔,𝟐,𝟑)] 
+4. Determine the relative maximum and minimum (if any) of the following function:  
+𝑓(𝑥1,𝑥2,𝑥3)=−7𝑥12−10𝑥22−𝑥32+4𝑥1𝑥2−2𝑥1𝑥3+4𝑥2𝑥3 
+ 
+5.  For each of the following functions determine whether it is convex, concave or 
+neither  
+(i) 𝑓(𝑥1,𝑥2)=3𝑥1+2𝑥12+4𝑥2+𝑥22−2𝑥1𝑥2 
+(ii) 𝑓(𝑥1,𝑥2)=𝑥12+3𝑥1𝑥2+2𝑥22 
+(iii) 𝑓(𝑥1,𝑥2)=20𝑥1+10𝑥2 
+(iv) 𝑓(𝑥1,𝑥2)=𝑥1𝑥2 
+ 
+6. Solve the following non -liner programming prbolem  
+Maximize 𝑧=5𝑥1+𝑥2−(𝑥1−𝑥2)2 
+      Subject to the constraint  
+   𝑥1+𝑥2=4 
+      𝑥1,𝑥2≥0                [Ans.: (𝟓
+𝟐,𝟑
+𝟐),𝒛=𝟏𝟑] 
+ 
+7. Solve the following non -linear programming problem, using Lagrange multipliers 
+method:  
+  Minimize 𝑧=𝑥12+𝑥22+𝑥32 
+      Subject to the constraint  
+   4𝑥1+𝑥22+2𝑥3=14 
+      𝑥1,𝑥2≥0             [Ans.: (𝟐,𝟐,𝟏),𝒛=𝟗] 
+ 
+8. Use the method of Lagrange multipliers to solve the following NLPP. Does the 
+solution maximize or minimize the objective function?  
+ 
+Optimize 𝑧=2𝑥12+𝑥22+3𝑥32+10𝑥1+8𝑥2+6𝑥3−100 
+      Subject to the constraint  
+   𝑥1+𝑥2+𝑥3=20 
+      𝑥1,𝑥2,𝑥3≥0 
+          [Ans.: (𝟓,𝟏𝟏,𝟒),𝒛=𝟐𝟖𝟏] 9. Find the point on the line of intersection of the planes 3𝑥−2𝑦+4𝑧=9 and 𝑥+
+2𝑦=3 which is closest  to the point (3,−1,2). [Ans.: (𝟕
+𝟑,𝟏
+𝟑,𝟐
+𝟑),𝒛=𝟒] 
+ 
+10.  Solve the following NLPP:  
+      Maximize 𝑧=4𝑥1−𝑥13+2𝑥2 
+      Subject to  
+   𝑥1+𝑥2≤1 
+      𝑥1,𝑥2≥0     [Ans.: (𝟎.𝟖𝟏𝟔𝟓 ,𝟎.𝟏𝟖𝟑𝟓 ),𝒛=𝟑.𝟎𝟖𝟖𝟕 ] 
+ 
+11. Solve the following NLPP using the Kuhn -Tucker conditions:  
+      Maximize 𝑧=2𝑥12−7𝑥22+12𝑥1𝑥2 
+      Subject to  
+   2𝑥1+5𝑥2≤98 
+      𝑥1,𝑥2≥0          [Ans.: (𝟒𝟒,𝟐),𝒛=𝟒𝟗𝟎𝟎 ] 
+           
+12.  Solve the following NLPP using the Kuhn -Tucker conditions:  
+   Minimize 𝑧=2𝑥1+3𝑥2−𝑥12−2𝑥22 
+      Subject to  
+   𝑥1+3𝑥2≤6 
+                               5𝑥1+2𝑥2≤10 
+      𝑥1,𝑥2≥0              [Ans.: (𝟐
+𝟑,𝟏𝟒
+𝟗),𝒛=𝟐𝟐
+𝟗] 
+13.   Solve the following NLPP using the Kuhn -Tucker conditions:  
+   Minimize 𝑧=𝑥12+𝑥22 
+      Subject to  
+   𝑥1+𝑥2≥8 
+                               𝑥1+2𝑥2≥10 
+   2𝑥1+𝑥2≥10 
+      𝑥1,𝑥2≥0              [Ans.: (𝟒,𝟒),𝒛=𝟐𝟐
+𝟗] Problem Sheet  
+ 
+Operations Research (MATH 2203 ) 
+Module -IV 
+ 
+1. Show that (0,0) is a saddle point to the function  
+𝑓(𝑥1,𝑥2)=18𝑥1𝑥2+5𝑥22. 
+2. Find the point (𝑥1,𝑥2,𝑥3) at which is function 𝑓(𝑥1,𝑥2,𝑥3)=4𝑥12+3𝑥22+𝑥32−
+6𝑥1𝑥2+𝑥1𝑥3−𝑥1
+2−2𝑥2+15 has optimal values.                         [Ans.: (𝟓
+𝟑,𝟐,−𝟓
+𝟔)] 
+3. Determine the relative maximum and minimum (if any) of the following function:  
+𝑓(𝑥1,𝑥2,𝑥3)=2𝑥12−24𝑥1+2𝑥22−8𝑥2+2𝑥32−12𝑥3+200 
+                   [Ans.: (𝟔,𝟐,𝟑)] 
+4. Determine the relative maximum and minimum (if any) of the following function:  
+𝑓(𝑥1,𝑥2,𝑥3)=−7𝑥12−10𝑥22−𝑥32+4𝑥1𝑥2−2𝑥1𝑥3+4𝑥2𝑥3 
+ 
+5.  For each of the following functions determine whether it is convex, concave or 
+neither  
+(i) 𝑓(𝑥1,𝑥2)=3𝑥1+2𝑥12+4𝑥2+𝑥22−2𝑥1𝑥2 
+(ii) 𝑓(𝑥1,𝑥2)=𝑥12+3𝑥1𝑥2+2𝑥22 
+(iii) 𝑓(𝑥1,𝑥2)=20𝑥1+10𝑥2 
+(iv) 𝑓(𝑥1,𝑥2)=𝑥1𝑥2 
+ 
+6. Solve the following non -liner programming prbolem  
+Maximize 𝑧=5𝑥1+𝑥2−(𝑥1−𝑥2)2 
+      Subject to the constraint  
+   𝑥1+𝑥2=4 
+      𝑥1,𝑥2≥0                [Ans.: (𝟓
+𝟐,𝟑
+𝟐),𝒛=𝟏𝟑] 
+ 
+7. Solve the following non -linear programming problem, using Lagrange multipliers 
+method:  
+  Minimize 𝑧=𝑥12+𝑥22+𝑥32 
+      Subject to the constraint  
+   4𝑥1+𝑥22+2𝑥3=14 
+      𝑥1,𝑥2≥0             [Ans.: (𝟐,𝟐,𝟏),𝒛=𝟗] 
+ 
+8. Use the method of Lagrange multipliers to solve the following NLPP. Does the 
+solution maximize or minimize the objective function?  
+ 
+Optimize 𝑧=2𝑥12+𝑥22+3𝑥32+10𝑥1+8𝑥2+6𝑥3−100 
+      Subject to the constraint  
+   𝑥1+𝑥2+𝑥3=20 
+      𝑥1,𝑥2,𝑥3≥0 
+          [Ans.: (𝟓,𝟏𝟏,𝟒),𝒛=𝟐𝟖𝟏] 9. Find the point on the line of intersection of the planes 3𝑥−2𝑦+4𝑧=9 and 𝑥+
+2𝑦=3 which is closest  to the point (3,−1,2). [Ans.: (𝟕
+𝟑,𝟏
+𝟑,𝟐
+𝟑),𝒛=𝟒] 
+ 
+10.  Solve the following NLPP:  
+      Maximize 𝑧=4𝑥1−𝑥13+2𝑥2 
+      Subject to  
+   𝑥1+𝑥2≤1 
+      𝑥1,𝑥2≥0     [Ans.: (𝟎.𝟖𝟏𝟔𝟓 ,𝟎.𝟏𝟖𝟑𝟓 ),𝒛=𝟑.𝟎𝟖𝟖𝟕 ] 
+ 
+11. Solve the following NLPP using the Kuhn -Tucker conditions:  
+      Maximize 𝑧=2𝑥12−7𝑥22+12𝑥1𝑥2 
+      Subject to  
+   2𝑥1+5𝑥2≤98 
+      𝑥1,𝑥2≥0          [Ans.: (𝟒𝟒,𝟐),𝒛=𝟒𝟗𝟎𝟎 ] 
+           
+12.  Solve the following NLPP using the Kuhn -Tucker conditions:  
+   Minimize 𝑧=2𝑥1+3𝑥2−𝑥12−2𝑥22 
+      Subject to  
+   𝑥1+3𝑥2≤6 
+                               5𝑥1+2𝑥2≤10 
+      𝑥1,𝑥2≥0              [Ans.: (𝟐
+𝟑,𝟏𝟒
+𝟗),𝒛=𝟐𝟐
+𝟗] 
+13.   Solve the following NLPP using the Kuhn -Tucker conditions:  
+   Minimize 𝑧=𝑥12+𝑥22 
+      Subject to  
+   𝑥1+𝑥2≥8 
+                               𝑥1+2𝑥2≥10 
+   2𝑥1+𝑥2≥10 
+      𝑥1,𝑥2≥0              [Ans.: (𝟒,𝟒),𝒛=𝟐𝟐
+𝟗] 
