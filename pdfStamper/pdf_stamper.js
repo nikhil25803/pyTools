@@ -103,6 +103,8 @@ document.querySelector('#upload-form').addEventListener("submit", async function
     import random
     from io import BytesIO
     import shutil
+    import pandas as pd
+
     
     
     def main():
@@ -205,7 +207,10 @@ document.querySelector('#upload-form').addEventListener("submit", async function
 async function main() {
     let pyodide = await loadPyodide();
     await pyodide.loadPackage("micropip");
+    // await pyodide.loadPackage();
     const micropip = pyodide.pyimport("micropip");
+    await pyodide.loadPackage("pandas")
+    await pyodide.loadPackage("openai")
     await micropip.install('PyPDF2')
     await micropip.install('typing')
 
